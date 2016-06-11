@@ -1,0 +1,12 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="5.11.1" last-modified="1462625366000" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="5.11.1" last-modified="1462625366000" />
+    <node-interpreter path="/usr/bin/node" version="(Does not exist)" last-modified="1462876972345" />
+  </component>
+</application>
