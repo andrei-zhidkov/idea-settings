@@ -6,7 +6,7 @@
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="5.11.1" last-modified="1462625366000" />
-    <node-interpreter path="/usr/bin/node" version="(Does not exist)" last-modified="1462876972345" />
+    <node-interpreter path="/usr/local/bin/node" version="5.11.1" last-modified="1464953591000" />
+    <node-interpreter path="/usr/bin/node" version="(Does not exist)" last-modified="1465908732942" />
   </component>
 </application>
