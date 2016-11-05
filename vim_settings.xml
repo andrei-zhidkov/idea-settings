@@ -9,20 +9,32 @@
         <mark key="." line="18" column="55" />
         <mark key="^" line="18" column="55" />
       </file>
-      <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/components/employees-table/presence-table.js" timestamp="1478339405501">
-        <mark key="[" line="61" column="29" />
-        <mark key="]" line="61" column="35" />
-        <mark key="." line="61" column="35" />
-        <mark key="^" line="61" column="35" />
+      <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/components/employees-table/presence-table.js" timestamp="1478340930331">
+        <mark key="[" line="61" column="39" />
+        <mark key="]" line="61" column="41" />
+        <mark key="." line="61" column="41" />
+        <mark key="^" line="61" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1478338782054">
+      <file name="/a.dummy" timestamp="1478340700084">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/locales/sv/translations.js" timestamp="1478341251137">
+        <mark key="[" line="93" column="20" />
+        <mark key="]" line="93" column="38" />
+        <mark key="." line="93" column="38" />
+        <mark key="^" line="93" column="38" />
       </file>
       <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/services/clock.js" timestamp="1478339181759">
         <mark key="[" line="21" column="22" />
         <mark key="]" line="27" column="21" />
         <mark key="^" line="27" column="21" />
         <mark key="." line="27" column="21" />
+      </file>
+      <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/locales/en/translations.js" timestamp="1478341092332">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="36" />
+        <mark key="^" line="93" column="39" />
+        <mark key="." line="93" column="39" />
       </file>
       <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/routes/main/index.js" timestamp="1478337849269">
         <mark key="[" line="20" column="26" />
@@ -42,23 +54,29 @@
       <jump line="28" column="93" filename="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/templates/components/employees-table/presence-table.hbs" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxhc3RVcGRhdGVkQXQ6ICdMYXN0IHVwZGF0ZWQgYXQnCg==</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">IDogRW1iZXIuaW5qZWN0LnNlcnZpY2UoKSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbWVudCgpKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PC90aW1lPg==</text>
+        <text>Last updated at</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IAogIGNsb2Nr</text>
+      <register name="2" type="2">
+        <text encoding="base64">IDogRW1iZXIuaW5qZWN0LnNlcnZpY2UoKSwK</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IAogIGNsb2Nr</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">KCkpOwogICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC90aW1lPg==</text>
+        <text>Last updated at</text>
       </register>
     </registers>
     <search>
@@ -80,6 +98,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
