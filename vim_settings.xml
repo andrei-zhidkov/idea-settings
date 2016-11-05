@@ -1,0 +1,86 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/components/employees-table/employee-presence-details.js" timestamp="1478338774672">
+        <mark key="[" line="15" column="68" />
+        <mark key="]" line="18" column="55" />
+        <mark key="." line="18" column="55" />
+        <mark key="^" line="18" column="55" />
+      </file>
+      <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/components/employees-table/presence-table.js" timestamp="1478339405501">
+        <mark key="[" line="61" column="29" />
+        <mark key="]" line="61" column="35" />
+        <mark key="." line="61" column="35" />
+        <mark key="^" line="61" column="35" />
+      </file>
+      <file name="/a.dummy" timestamp="1478338782054">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/services/clock.js" timestamp="1478339181759">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="27" column="21" />
+        <mark key="^" line="27" column="21" />
+        <mark key="." line="27" column="21" />
+      </file>
+      <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/routes/main/index.js" timestamp="1478337849269">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="39" />
+        <mark key="^" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+      </file>
+      <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/templates/components/employees-table/presence-table.hbs" timestamp="1478339834127">
+        <mark key="'" line="28" column="93" />
+        <mark key="[" line="28" column="87" />
+        <mark key="]" line="28" column="94" />
+        <mark key="^" line="28" column="46" />
+        <mark key="." line="28" column="87" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="28" column="93" filename="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/templates/components/employees-table/presence-table.hbs" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">IDogRW1iZXIuaW5qZWN0LnNlcnZpY2UoKSwK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PC90aW1lPg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IAogIGNsb2Nr</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">KCkpOwogICAgICA=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">PC90aW1lPg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>nu</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
