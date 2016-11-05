@@ -9,13 +9,19 @@
         <mark key="." line="18" column="55" />
         <mark key="^" line="18" column="55" />
       </file>
+      <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/styles/employees-presence.scss" timestamp="1478357576902">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+      </file>
       <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/components/employees-table/presence-table.js" timestamp="1478340930331">
         <mark key="[" line="61" column="39" />
         <mark key="]" line="61" column="41" />
         <mark key="." line="61" column="41" />
         <mark key="^" line="61" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1478340700084">
+      <file name="/a.dummy" timestamp="1478357291714">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/locales/sv/translations.js" timestamp="1478341251137">
@@ -42,12 +48,12 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/templates/components/employees-table/presence-table.hbs" timestamp="1478339834127">
+      <file name="$USER_HOME$/Devel/work/tiltid-new/TIL-Web-AuthPortal/app/templates/components/employees-table/presence-table.hbs" timestamp="1478357556664">
         <mark key="'" line="28" column="93" />
-        <mark key="[" line="28" column="87" />
-        <mark key="]" line="28" column="94" />
-        <mark key="^" line="28" column="46" />
-        <mark key="." line="28" column="87" />
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="21" />
+        <mark key="^" line="28" column="47" />
+        <mark key="." line="28" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -61,7 +67,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbWVudCgpKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Last updated at</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IDogRW1iZXIuaW5qZWN0LnNlcnZpY2UoKSwK</text>
@@ -76,7 +82,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>Last updated at</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
